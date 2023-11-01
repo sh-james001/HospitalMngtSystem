@@ -42,6 +42,8 @@ public class UserInfo {
 		this.contact = contact;
 	}
 	
-	
+	public void add(int a , int b){
+		return a+b;
+	}
 	
 }
